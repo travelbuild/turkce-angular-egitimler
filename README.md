@@ -1,4 +1,4 @@
-Şirket içi eğitimlerde hazırladığımız Angular2+ dökümanları Uygulamalı ve Türkçe kaynak olması açısından burada paylaşıyoruz.
+Şirket içi eğitimlerde hazırladığımız Angular2+ (4,5,6 dahil) dökümanları Uygulamalı ve Türkçe kaynak olması açısından burada paylaşıyoruz.
 
 
 
